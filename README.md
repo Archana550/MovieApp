@@ -32,13 +32,20 @@ A movie-browsing web application that allows users to search for movies, apply f
 
 - Implement infinite scrolling to handle large numbers of search results. Extra points if you don’t use a third-party solution.
 
-- Implement advanced filtering options for movies, such as filtering by genre, release year range, and rating range. Filters should update the list of movies dynamically. [optional]
 
-- Allow users to save their favorite movies. Favorite movies should be stored locally (e.g., using browser storage). [optional]
+- Allow users to save their favorite movies. Favorite movies should be stored locally (e.g., using browser storage). 
 
 - Ensure the application is SEO-friendly and accessible to users with disabilities by following accessibility best practices.
 
 - Write clean, well-structured code following best practices
 
 - Provide documentation explaining how to run the application, your design decisions, and any additional features implemented. Also, mention any possible improvements in your implementation
+
+![image](https://github.com/user-attachments/assets/ad388ddb-d9fc-4fad-9a27-d60ebae843dc)
+
+
+- Saving to local storage the movies added to favourites.
+![image](https://github.com/user-attachments/assets/6dc94185-4c81-4cf6-ae40-f9d40571e92c)
+
+
 
